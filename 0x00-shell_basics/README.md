@@ -3,3 +3,4 @@
 "cd ~": script that changes the working to the users home directory
 "ls -l": displays current directory contents in a long format
 "ls -al": display hidden files in the current directory in a long format
+"ls -al": display hidden files, with user and group ids
