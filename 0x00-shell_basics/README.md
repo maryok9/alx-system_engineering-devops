@@ -7,4 +7,4 @@
 "mkdir /tmp/my_first_directory": creates a directory in tmp directory
 "mv betty /tmp/my_first_directory": moves file with the name betty to a directory in tmp directory
 cd -: changes back to the previous directory
-ls -al ../boot: displays hidden files in parent and boot
+ls -al . .. /boot: displays hidden files in parent and boot
