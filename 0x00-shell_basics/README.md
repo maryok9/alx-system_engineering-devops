@@ -5,3 +5,4 @@
 "ls -al": display hidden files in the current directory in a long format
 "ls -al": display hidden files, with user and group ids
 "mkdir /tmp/my_first_directory": creates a directory in tmp directory
+"mv betty /tmp/my_first_directory": moves file with the name betty to a directory in tmp directory
